@@ -1,8 +1,7 @@
-# led_devicce_driver_2
+# led_devicce_driver
 Device driver for separately shining two LEDs.
 
 ## Demonstration
-- https://youtu.be/MVUase_HDJ0
 
 ## Requirements
 - Raspberry Pi 3 Model B
